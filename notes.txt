@@ -21,7 +21,7 @@ The whole shape has
 
 Solution:
 ===
-1. solve 2C. Not sure if we can flip in place. 3 cycle is possible.
+1. solve 2C. 3-cycle is possible. Flipping 2 pieces is possible.
 - Gather one color first (blue). Then move on to another color (red)
 
 
