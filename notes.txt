@@ -33,6 +33,11 @@ It's posted that we may see a parity in both 3C and 4C. Fortunately I didn't see
 https://groups.google.com/g/hypercubing/c/spTpa71AXm0/m/8j-A54SWDQAJ
 https://groups.google.com/g/hypercubing/c/tlbNNoboBMU/m/HrEHRkEbBwAJ
 
+I spent some time trying to reproduce the 3C parity: one 3-colors piece twisted 180°. Or, on a 3C pieces with colors ABC oriented as BAC. I can't reproduce it. Either I don't stand the reason of the 3C parity, or the 8-color version doesn't have it.
+
+I should call out that I solve 2C first then 3C, and then 4C.
+If the 3C parity is introduced by flipping around a single edge (clicking on an edge), then this move swaps 3 pairs of 2C, which is an odd permutation of 2C pieces. When I solved 2C pieces, I should have already avoided the odd permutation of 2C.
+
 4. 4C parity: At the end of orientation fixing of 4C pieces, you may see a 3-fold parity. Make one 3-fold rotation and re-solve. The 3-fold rotation is not to directly fix the piece, but to rotate in the opposite way. I recorded the whole fixing sequence as a macro, so that we can apply it or the inverse of it.
 
 At the beginning of the first 3-fold parity: 12913
