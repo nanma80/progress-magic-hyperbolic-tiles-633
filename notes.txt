@@ -19,15 +19,20 @@ The whole shape has
 8*21/3 = 56 3C edge pieces
 8*14/4 = 28 4C vertex pieces
 
-Solution:
+8-color Solution:
 ===
-1. solve 2C. 3-cycle is possible. Flipping 2 pieces is possible.
+1. Solve 2C. 3-cycle is possible. Flipping 2 pieces is possible.
 - Gather one color first (blue). Then move on to another color (red)
+- [Parity] If we need to swap 2 pieces, make a 6-fold rotation to correct
 
+2. Solve 3C. 3-cycle is possible. Possible to flip 2 pieces in place, or rotate 1 piece in place (cycle all three stickers)
 
+3. Solve 4C. 3-cycle is possible. Possible to rotate 2 pieces in place ( 3-cycle stickers on each piece ), or double flip two pairs of stickers on one piece.
 
+4. At the end of orientation fixing, you may see a 3-fold parity. Make one 3-fold rotation and re-solve. The 3-fold rotation is not to directly fix the piece, but to rotate in the opposite way. I recorded the whole fixing sequence as a macro, so that we can apply it or the inverse of it.
 
-
+At the beginning of the first 3-fold parity: 12913
+At the end of the attempt to fix 3-fold parity: 20710
 
 
 
