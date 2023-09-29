@@ -29,7 +29,11 @@ The whole shape has
 
 3. Solve 4C. 3-cycle is possible. Possible to rotate 2 pieces in place ( 3-cycle stickers on each piece ), or double flip two pairs of stickers on one piece.
 
-4. At the end of orientation fixing, you may see a 3-fold parity. Make one 3-fold rotation and re-solve. The 3-fold rotation is not to directly fix the piece, but to rotate in the opposite way. I recorded the whole fixing sequence as a macro, so that we can apply it or the inverse of it.
+It's posted that we may see a parity in both 3C and 4C. Fortunately I didn't see the 3C parity
+https://groups.google.com/g/hypercubing/c/spTpa71AXm0/m/8j-A54SWDQAJ
+https://groups.google.com/g/hypercubing/c/tlbNNoboBMU/m/HrEHRkEbBwAJ
+
+4. 4C parity: At the end of orientation fixing of 4C pieces, you may see a 3-fold parity. Make one 3-fold rotation and re-solve. The 3-fold rotation is not to directly fix the piece, but to rotate in the opposite way. I recorded the whole fixing sequence as a macro, so that we can apply it or the inverse of it.
 
 At the beginning of the first 3-fold parity: 12913
 At the end of the attempt to fix 3-fold parity: 20710

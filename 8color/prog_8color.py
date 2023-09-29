@@ -103,7 +103,7 @@ def compare_status():
   secondsStr = str(100 + seconds)[1:]
   milliseconds = curTime.microseconds/1000
   millisecondsStr = str(1000 + milliseconds)[1:]
-  print ('Current solving time is: %d:%s:%s.%s,   %s'%(totalhours, minutesStr, secondsStr, millisecondsStr,str(curTime)[:-3]))
+  print ('Current solving time is: %s'%(str(curTime)[:-3]))
 
 def main():
   last_update_time = -1
