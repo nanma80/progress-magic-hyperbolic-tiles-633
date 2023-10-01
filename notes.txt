@@ -43,6 +43,57 @@ If the 3C parity is introduced by flipping around a single edge (clicking on an 
 At the beginning of the first 3-fold parity: 12913
 At the end of the attempt to fix 3-fold parity: 20710
 
+====
+
+MHT633 12 colors
+
+{6,3,3} 12 colors.
+It has 12 cells. Each cell is a {6,3} 9-color
+
+9 hexagons {6}
+27 edges 6*9/2 = 27
+18 vertices 9*6/3 = 18
+Each cell has 1+9+27+18 = 55 stickers
+
+The whole shape has 
+12*9/2 = 54 2C face pieces
+12*27/3 = 108 3C edge pieces
+12*18/4 = 54 4C vertex pieces
+
+
+
+
+====
+Pieces computed by others:
+https://groups.google.com/g/hypercubing/c/we68svPoi_M/m/pKPVVx1PBQAJ
+
+8 colors:
+8 1c pieces, 28 2c pieces, 56 3c pieces and 28 4c pieces
+This results in 120 pieces and 344 stickers
+
+12 colors:
+12 1c pieces, 54 2c pieces, 108 3c pieces and 54 4c pieces
+This results in 228 pieces and 660 stickers
+
+14 colors:
+14 1c pieces, 91 2c pieces, 182 3c pieces and 91 4c pieces
+This results in 378 pieces and 1106 stickers
+
+20 colors A:
+20 1c pieces, 160 2c pieces, 320 3c pieces and 160 4c pieces
+This results in 660 pieces and 1940 stickers
+
+20 colors B:
+20 1c pieces, 120 2c pieces, 240 3c pieces and 120 4c pieces
+This results in 500 pieces and 1460 stickers
+
+32 colors:
+32 1c pieces, 336 2c pieces, 672 3c pieces and 336 4c pieces
+This results in 1376 pieces and 4064 stickers
+
+52 colors:
+52 1c pieces, 650 2c pieces, 1300 3c pieces and 650 4c pieces
+This results in 2652 pieces and 7852 stickers
 
 
 ==== ignore the following ====
