@@ -60,7 +60,9 @@ The whole shape has
 12*27/3 = 108 3C edge pieces
 12*18/4 = 54 4C vertex pieces
 
-
+Order of solution is as same as 8-color. The only diff is that there's no 2C parity. According to Raymond's post:
+https://groups.google.com/g/hypercubing/c/tlbNNoboBMU/m/HrEHRkEbBwAJ
+there may be a 3C parity and no 4C parity.
 
 
 ====
